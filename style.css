@@ -1,0 +1,16 @@
+img{
+    width: 80px;
+    height: 85px;
+    border-radius: 50%;
+}
+th{
+    text-align: start;
+}
+h3, a{
+    color: lightgreen;
+}
+.myexp{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
